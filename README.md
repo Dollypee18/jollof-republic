@@ -43,7 +43,7 @@ For young people who love vibes 🎵, memes 😂, and food trucks 🚚.
 1. **Clone the repository**
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/jollof-republic.git
+git clone https://github.com/Dollypee18/jollof-republic.git
 cd jollof-republic
 ```
 
@@ -71,8 +71,8 @@ npm run build
 The optimized production build will be in the `dist` folder.
 
 ## 🌐 Deployment
-
-### Deploy to Vercel (Recommended)
+https://jollof-republic-hgp10qgg7-dollypee18s-projects.vercel.app/
+### Deploy to Vercel ()
 
 1. Install Vercel CLI
 
